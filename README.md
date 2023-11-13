@@ -1,7 +1,7 @@
 <h1 align="center">Tervist<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 # :smiley_cat:
-### Kui te seda loete, olete jõudnud minu väiksele armasale github alt kontole, mis on tehtud põhjusel, et Tartu Ülikooli õppeaine "Sissejuhatus Erialasse" õppejõud on nii saamatud, et nad ei mõista fakti, et inimesed ei taha nende projekti enda github kontole PUBLIC olekus...
+### Kui te seda loete, olete jõudnud minu väiksele armasale github alt kontole, mis on tehtud põhjusel, et Tartu Ülikooli kursuse "Sissejuhatus Erialasse" õppejõud ei mõista fakti, et inimesed ei taha nende projekti enda github kontole PUBLIC olekus...
 ### ausalt õeldes olen ma pettunud, et selline nõue sunnib mind looma eraldi konto ja kulutama oma väärtusliku aega uue profiili ülesseadmisele, Päikest ja parimat :)
 
 
